@@ -1,1 +1,1 @@
-# Subsized Specimens Tensile Properties
+# Dataset of Tensile Properties for Sub-sized Specimens
