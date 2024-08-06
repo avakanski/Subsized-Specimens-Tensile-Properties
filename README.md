@@ -7,14 +7,14 @@ The dataset provides records of tensile properties of nuclear structural materia
 An open-access version of the dataset is also published at the Materials Cloud Archive, at <a href="https://doi.org/10.24435/materialscloud:ws-kw">https://doi.org/10.24435/materialscloud:ws-kw</a>.
 
 # Files
-* Tensile_Properties_of_Sub-sized_specimens.xlsx: the main dataset in a Microsoft Excel workbook format.
-* Sample_Code.ipynb, a Jupyter Notebook containing Python code for loading the dataset and vizualization of several data features.
+* <a href="Tensile_Properties_of_Sub-sized_specimens.xlsx">Tensile_Properties_of_Sub-sized_specimens.xlsx</a>: the main dataset in a Microsoft Excel workbook format.
+* <a href="Sample_Code.ipynb">Sample_Code.ipynb</a>: a Jupyter Notebook containing Python code for loading the dataset and vizualization of several data features.
 
 # Citation
 If you use the codes or the methods in your work, please use the following citation:   
 
     @DATASET{Li2024,
-    title={A Deep Learning Framework for Assessing Physical Rehabilitation Exercises},
+    title={Dataset of Tensile Properties for Sub-sized Specimens},
     author={Li, L. and Merickel, J. and Tang, Y. and Song R. and Rittenhouse, J. and Vakanski, A. and Xu, F.},
     archive={Materials Cloud Archive}, 
     year={2024},
