@@ -4,11 +4,11 @@ Authors: Longze Li, John Merickel, Yalei Tang, Rongjie Song, Joshua Rittenhouse,
 
 The dataset provides records of tensile properties of nuclear structural materials. The focus is on studying the influence of specimen dimensions and geometry on mechanical properties such as yield strength, ultimate tensile strength, uniform elongation, and total elongation. The dataset was created through an extensive literature review of scientific articles and databases. The search inclusion criteria targeted peer-reviewed studies on tensile testing of sub-sized specimens, providing quantitative data on tensile properties relative to specimen size. The extracted data points from the literature review are organized into a tabular format database containing 1,070 tensile testing records with 54 parameters, including material type and composition, manufacturing information, irradiation conditions, specimen size and dimensions, and tensile properties. Materials science experts conducted systematic checks to validate the collected data, ensuring accuracy in the information related to material type, manufacturing processes and treatment methods, and testing conditions, as well as verifying the chemical composition and other pertinent information.
 
+An open-access version of the dataset is also published at the Materials Cloud Archive, at <a href="https://doi.org/10.24435/materialscloud:ws-kw">https://doi.org/10.24435/materialscloud:ws-kw</a>.
+
 # Files
 * Tensile_Properties_of_Sub-sized_specimens.xlsx: the main dataset in a Microsoft Excel workbook format.
 * Sample_Code.ipynb, a Jupyter Notebook containing Python code for loading the dataset and vizualization of several data features.
-
-An open-access version of the dataset is also published at the Materials Cloud Archive, at <a href="https://doi.org/10.24435/materialscloud:ws-kw">https://doi.org/10.24435/materialscloud:ws-kw</a>.
 
 # Citation
 If you use the codes or the methods in your work, please use the following citation:   
@@ -22,7 +22,6 @@ If you use the codes or the methods in your work, please use the following citat
     doi={https://doi.org/10.24435/materialscloud:ws-kw}
     }
 
-
 # License
 <a href="License - MIT.txt">MIT License</a>
 
@@ -31,5 +30,6 @@ This work was supported through the INL Laboratory Directed Research& Developmen
 
 # Contact or Questions
 A. Vakanski, e-mail: vakanski@uidaho.edu
+
 F. Xu, e-mail: FeiXu@inl.gov
 
