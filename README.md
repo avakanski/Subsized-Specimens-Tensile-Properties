@@ -11,7 +11,7 @@ An open-access version of the dataset is also published at the Materials Cloud A
 * <a href="Sample_Code.ipynb">Sample_Code.ipynb</a>: a Jupyter Notebook containing Python code for loading the dataset and vizualization of several data features.
 
 # Citation
-If you use the codes or the methods in your work, please use the following citation:   
+If you use the dataset in your work, please use the following citation:   
 
     @DATASET{Li2024,
     title={Dataset of Tensile Properties for Sub-sized Specimens},
