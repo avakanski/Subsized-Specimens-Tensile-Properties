@@ -31,5 +31,5 @@ This work was supported through the INL Laboratory Directed Research& Developmen
 # Contact or Questions
 A. Vakanski, e-mail: vakanski@uidaho.edu
 
-F. Xu, e-mail: FeiXu@inl.gov
+F. Xu, e-mail: fei.xu@inl.gov
 
