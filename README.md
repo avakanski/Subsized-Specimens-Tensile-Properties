@@ -1,6 +1,6 @@
 # Dataset of Tensile Properties for Sub-sized Specimens
 
-[![Materials Cloud](https://img.shields.io/badge/Materials%20Cloud-10.24435%2Fmaterialscloud%3Aws--kw-blue)](https://doi.org/10.24435/materialscloud:ws-kw)  [![arXiv](https://img.shields.io/badge/arXiv-2311.02495-b31b1b)]( https://arxiv.org/abs/2409.08306v1)
+[![arXiv](https://img.shields.io/badge/arXiv-2409.08306v1)]( https://arxiv.org/abs/2409.08306v1)   [![Materials Cloud](https://img.shields.io/badge/Materials%20Cloud-10.24435%2Fmaterialscloud%3Aws--kw-blue)](https://doi.org/10.24435/materialscloud:ws-kw) 
 
 Authors: Longze Li, John Merickel, Yalei Tang, Rongjie Song, Joshua Rittenhouse, Aleksandar Vakanski, Fei Xu
 
