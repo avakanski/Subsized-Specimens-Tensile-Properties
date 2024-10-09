@@ -1,5 +1,7 @@
 # Dataset of Tensile Properties for Sub-sized Specimens
 
+[![arXiv](https://img.shields.io/badge/arXiv-2311.02495-b31b1b)]( https://arxiv.org/abs/2409.08306v1)
+
 Authors: Longze Li, John Merickel, Yalei Tang, Rongjie Song, Joshua Rittenhouse, Aleksandar Vakanski, Fei Xu
 
 The dataset contains records of tensile properties of nuclear structural materials. The focus is on studying the influence of specimen dimensions and geometry on mechanical properties such as yield strength, ultimate tensile strength, uniform elongation, and total elongation. The dataset was created through an extensive literature review of scientific articles. The search inclusion criteria targeted peer-reviewed studies on tensile testing of sub-sized specimens. The extracted data points from the literature review are organized into a tabular format database containing 1,070 tensile testing records with 54 parameters, including material type and composition, manufacturing information, irradiation conditions, specimen size and dimensions, and tensile properties. Materials science experts conducted systematic validation checks to ensure the accuracy of the information related to material type, manufacturing processes, treatment methods, chemical composition, testing conditions, as well as other pertinent information.
