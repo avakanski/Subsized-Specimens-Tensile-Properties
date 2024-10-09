@@ -21,15 +21,25 @@ Conclusively, the dataset can represent a valuable resource for the community, a
 
 
 # Citation
-If you use the dataset in your work, please use the following citation:   
+If you use the dataset in your work, please use one of the following citations:   
 
     @DATASET{Li2024,
     title={Dataset of Tensile Properties for Sub-sized Specimens},
-    author={Li, L. and Merickel, J. and Tang, Y. and Song R. and Rittenhouse, J. and Vakanski, A. and Xu, F.},
+    author={Li, L. and Merickel, J. and Tang, Y. and Song, R. and Rittenhouse, J. and Vakanski, A. and Xu, F.},
     archive={Materials Cloud Archive}, 
     year={2024},
     volume={99},
     doi={https://doi.org/10.24435/materialscloud:ws-kw}
+    }
+
+    @ARTICLE{Li2024,
+    title={Dataset of Tensile Properties for Sub-sized Specimens of Nuclear Structural Materials},
+    author={Li, L. and Merickel, J. and Tang, Y. and Song, R. and Rittenhouse, J. and Vakanski, A. and Xu, F.},
+    publisher={arXiv},
+    year={2024},
+    article-number={2409.08306v1},
+    url={https://arxiv.org/abs/2409.08306v1},
+    doi={https://doi.org/10.48550/arXiv.2409.08306}
     }
 
 # License
