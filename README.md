@@ -25,6 +25,18 @@ Conclusively, the dataset can represent a valuable resource for the community, a
 # Citation
 If you use the dataset in your work, please use one of the following citations:   
 
+    @ARTICLE{Li2025,
+    title={Dataset of Tensile Properties for Sub-sized Specimens of Nuclear Structural Materials},
+    author={Li, L. and Merickel, J. and Tang, Y. and Song, R. and Rittenhouse, J. and Vakanski, A. and Xu, F.},
+    publisher={Scientific Data},
+    year={2025},
+    volume={12},
+    issue={1},
+    article-number={2052-4463},
+    url={https://www.nature.com/articles/s41597-024-04329-2},
+    doi={https://doi.org/10.1038/s41597-024-04329-2}
+    }
+
     @DATASET{Li2024,
     title={Dataset of Tensile Properties for Sub-sized Specimens},
     author={Li, L. and Merickel, J. and Tang, Y. and Song, R. and Rittenhouse, J. and Vakanski, A. and Xu, F.},
