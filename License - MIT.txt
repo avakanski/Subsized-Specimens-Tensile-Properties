@@ -1,5 +1,5 @@
-Copyright (c) 2024 Longze Li, John Merickel, Yalei Tang, Rongjie Song, 
-Joshua Rittenhouse, Aleksandar Vakanski, Fei Xu
+Copyright (c) 2024 Longze Li, John W. Merickel, Yalei Tang, Rongjie Song, 
+Joshua E. Rittenhouse, Aleksandar Vakanski, Fei Xu
 
 Permission is hereby granted, free of charge, to any person 
 obtaining a copy of this software and associated documentation
